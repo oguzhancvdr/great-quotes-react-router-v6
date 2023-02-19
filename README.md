@@ -4,6 +4,15 @@
 
 Project aims to create a Quotes App with react-router version 6.6.1
 
+## Start Project
+
+```
+pnpm install
+
+pnpm run dev
+
+```
+
 ## Live Demo
 - https://inclass-firecontact.web.app
 
