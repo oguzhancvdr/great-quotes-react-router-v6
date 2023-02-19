@@ -10,7 +10,6 @@ Project aims to create a Quotes App with react-router version 6.6.1
 pnpm install
 
 pnpm run dev
-
 ```
 
 ## Live Demo
@@ -58,3 +57,12 @@ Build a Quotes App using ReactJS.
 - Defining Dynamic Routes
 
 - Benefit from Index Routes
+
+## Used Libraries, built tools and Hoisting Service
+- [React](https://reactjs.org/)
+- 
+- [Vite](https://vitejs.dev/)
+- 
+- [React Router Dom](https://reactrouter.com/en/main/start/overview)
+- 
+- [Firebase](https://firebase.google.com/)
