@@ -60,9 +60,9 @@ Build a Quotes App using ReactJS.
 
 ## Used Libraries, built tools and Hoisting Service
 - [React](https://reactjs.org/)
-- 
+
 - [Vite](https://vitejs.dev/)
-- 
+
 - [React Router Dom](https://reactrouter.com/en/main/start/overview)
-- 
+
 - [Firebase](https://firebase.google.com/)
