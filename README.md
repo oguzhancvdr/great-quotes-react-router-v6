@@ -2,7 +2,7 @@
 
 ## Description
 
-Project aims to create a Quotes App with react-router version 6.6.1
+Project aims to create a Quotes App with react-router version 6 (not v6.4 and up)
 
 ## Start Project
 
